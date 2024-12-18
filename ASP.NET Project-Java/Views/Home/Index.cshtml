@@ -16,18 +16,11 @@
                             <ul class="menu-category">
                                 @foreach (var item in Model.ListCategory)
                                 {
-                                    <li><a href="@Url.Action("AllCategory","Category")">@item.Name</a></li>
+                                    <li>
+                                        @Html.ActionLink(item.Name, "ProductCategory", "Category", new { @Id = item.Id }, null)
 
+                                    </li>
                                 }
-                                <li class="has-submenu">
-                                    <a href="#">More items</a>
-                                    <ul class="submenu">
-                                        <li><a href="#">Submenu name</a></li>
-                                        <li><a href="#">Great submenu</a></li>
-                                        <li><a href="#">Another menu</a></li>
-                                        <li><a href="#">Some others</a></li>
-                                    </ul>
-                                </li>
                             </ul>
                         </nav>
                     </aside> <!-- col.// -->
@@ -105,16 +98,16 @@
                 </div>
             </div> <!-- col.// -->
             <div class="row no-gutters items-wrap">
-                @foreach (var item in Model.ListProduct.Take(6))
+                @foreach (var item in Model.ListProduct.Take(3))
                 {
                     <div class="col-md col-6">
                         <figure class="card-product-grid card-sm">
-                            <a href="#" class="img-wrap">
+                            <a href="@Url.Action("Detail","Product", new {Id = item.Id})" class="img-wrap">
                                 <img src="~/Content/images/items/@item.Image" />
 
                             </a>
                             <div class="text-wrap p-3">
-                                <a href="#" class="title">@item.Name</a>
+                                @Html.ActionLink(item.Name,"Detail","Product", new { Id = item.Id },null)
                                 <span class="badge badge-danger"> -20% </span>
                             </div>
                         </figure>
