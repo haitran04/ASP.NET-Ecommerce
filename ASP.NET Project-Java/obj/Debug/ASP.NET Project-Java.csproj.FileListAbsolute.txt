@@ -81,3 +81,7 @@ C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Ja
 C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\EntityFramework.SqlServer.dll
 C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\EntityFramework.xml
 C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\PagedList.dll
+C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\PagedList.xml
+C:\Users\Administrator\Downloads\asp-net\ASP.NET Project-Java\ASP.NET Project-Java\bin\PagedList.Mvc.xml

@@ -14,6 +14,12 @@ namespace ASP.NET_Project_Java.Context
     
     public partial class Brand
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Brand()
+        {
+            this.Products = new HashSet<Product>();
+        }
+    
         public int Id { get; set; }
         public string Name { get; set; }
         public string Image { get; set; }
@@ -23,5 +29,10 @@ namespace ASP.NET_Project_Java.Context
         public Nullable<System.DateTime> CreatedOnUtc { get; set; }
         public Nullable<System.DateTime> UpdatedOnUtc { get; set; }
         public Nullable<bool> Deleted { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Product> Products { get; set; }
+
+        public System.Web.HttpPostedFileBase ImageUpload { get; set; }
     }
 }

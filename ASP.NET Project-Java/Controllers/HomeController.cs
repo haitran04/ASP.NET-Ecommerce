@@ -15,23 +15,20 @@ namespace ASP.NET_Project_Java.Controllers
         public ActionResult Index()
         {
             HomeModel objHomeModel = new HomeModel();
-            objHomeModel.ListCategory = objEntities.Categories .ToList();
+            objHomeModel.ListCategory = objEntities.Categories.ToList();
             objHomeModel.ListProduct = objEntities.Products.ToList();
-
             return View(objHomeModel);
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }

@@ -3,12 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,108 +155,140 @@
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|c:\\users\\administrator\\downloads\\asp-net\\asp.net project-java\\asp.net project-java\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\dbmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\dbmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\productmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\productmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\usermasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\usermasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\partialmetadatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\partialmetadatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\asp.net project-java\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{519F3929-4256-44B2-AC15-AB054C15783F}|ASP.NET Project-Java\\ASP.NET Project-Java.csproj|solutionrelative:asp.net project-java\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,232 +298,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ASP.NET Project-Java\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwDkAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T09:07:34.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\HomeModel.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\HomeModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\HomeModel.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Models\\HomeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:59:05.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:45:04.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:36:45.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAASwBUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:44:41.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAADAAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T05:38:53.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:38:45.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:58:55.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:19:19.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:49:38.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:49:37.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T06:47:15.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwDEAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T18:39:54.243Z",
+              "WhenOpened": "2025-01-15T05:58:55.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AllCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwCoAAACHAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T06:45:11.192Z",
+              "WhenOpened": "2025-01-15T05:57:16.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:38:14.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Product\\Detail.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Product\\Detail.cshtml",
               "RelativeToolTip": "ASP.NET Project-Java\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAWwL4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T06:24:27.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAPMAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:01:25.73Z",
+              "WhenOpened": "2024-12-04T06:45:11.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Category\\ProductCategory.cshtml",
+              "ViewState": "AgIAALIAAAAAAAAAAAAWwLsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:47:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -372,151 +393,717 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:58:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:58:15.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:57:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:57:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:59:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:59:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:59:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:59:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T18:49:38.283Z",
+              "WhenOpened": "2025-01-15T06:01:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:01:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:01:01.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:00:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:00:20.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserModel.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:34:08.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:38:41.027Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:02:07.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\User\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T19:02:19.357Z"
+              "WhenOpened": "2025-01-15T06:02:03.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "ASP.NET Project-Java\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T06:38:51.119Z"
+              "WhenOpened": "2025-01-15T06:01:59.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:06:42.681Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:01:49.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "dbModel.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.Context.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\dbModel.Context.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.Context.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Context\\dbModel.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:33:08.714Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:01:35.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "dbModel.tt",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.tt",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\dbModel.tt",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.tt",
-              "RelativeToolTip": "ASP.NET Project-Java\\Context\\dbModel.tt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-16T09:10:55.507Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:54:30.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:59:45.321Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:54:26.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Category.cs",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Category.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Category.cs",
-              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:40:48.641Z"
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:54:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:54:09.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:53:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA3wI8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:38:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAOUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:01:25.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:16:44.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:45:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAWwFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:38:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Cart\\Cart.cshtml",
               "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Cart\\Cart.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Cart\\Cart.cshtml",
               "RelativeToolTip": "ASP.NET Project-Java\\Views\\Cart\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEAAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T15:07:05.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "dbModel.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.edmx",
-              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\dbModel.edmx",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\dbModel.edmx [Diagram1]",
-              "RelativeToolTip": "ASP.NET Project-Java\\Context\\dbModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-11T07:32:25.728Z"
+              "DocumentIndex": 36,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:44:41.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:36:45.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Product\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Product\\AllProduct.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Product\\AllProduct.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Product\\AllProduct.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAWwJYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T05:36:35.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:02:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:38:41.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:38:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:51:26.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:39:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:59:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\User.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\User.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:27:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:19:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:02:42.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Category.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Category.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Category.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA/wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:44:48.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Brand.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Brand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Brand.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Brand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:36:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Product.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Product.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:22:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.Context.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Model1.Context.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:22:41.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAMAwwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:06:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\CartModel.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:55:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.Context.tt",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Model1.Context.tt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-08T07:22:39.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.edmx",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Context\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Context\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ASP.NET Project-Java\\Context\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-08T07:21:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:50:50.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:02:24.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\ProductMasterData.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\ProductMasterData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\ProductMasterData.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\ProductMasterData.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:53:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:51:12.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserMasterData.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\UserMasterData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserMasterData.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\UserMasterData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:55:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\UserModel.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:34:08.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PartialMetadataType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\PartialMetadataType.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\PartialMetadataType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\PartialMetadataType.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\PartialMetadataType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:54:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Models\\HomeModel.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:59:05.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Shared\\Error.cshtml",
@@ -525,6 +1112,90 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T05:38:51.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:45:04.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:49:38.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:41:15.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Common.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Common.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Common.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\Common.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:16:23.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T17:24:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ASP.NET Project-Java\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:49:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asp-net\\ASP.NET Project-Java\\ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ASP.NET Project-Java\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:38:14.45Z"
             }
           ]
         }

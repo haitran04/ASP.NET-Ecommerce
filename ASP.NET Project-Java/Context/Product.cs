@@ -14,6 +14,12 @@ namespace ASP.NET_Project_Java.Context
     
     public partial class Product
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Product()
+        {
+            this.OrderDetails = new HashSet<OrderDetail>();
+        }
+    
         public int Id { get; set; }
         public string Name { get; set; }
         public string Image { get; set; }
@@ -30,5 +36,13 @@ namespace ASP.NET_Project_Java.Context
         public Nullable<int> DisplayOrder { get; set; }
         public Nullable<System.DateTime> CreatedOnUtc { get; set; }
         public Nullable<System.DateTime> UpdatedOnUtc { get; set; }
+    
+        public virtual Brand Brand { get; set; }
+        public virtual Category Category { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<OrderDetail> OrderDetails { get; set; }
+
+        public System.Web.HttpPostedFileBase ImageUpload { get; set; }
+
     }
 }
